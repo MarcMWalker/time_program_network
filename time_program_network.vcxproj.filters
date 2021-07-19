@@ -18,8 +18,5 @@
     <ClCompile Include="time_console.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="time_server.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
